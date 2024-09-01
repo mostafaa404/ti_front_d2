@@ -1,0 +1,35 @@
+.h44 {
+    background-color: rgb(205, 205, 205);
+    height: 50px;
+    text-align: center;
+    margin: -7px;
+    padding: 11px;
+}
+.h4 {
+    color: rgb(135, 135, 137);
+    background-color: rgb(205, 205, 205);
+    height: 50px;
+    text-align: center;
+    margin: -7px;
+    padding: 11px;
+} 
+
+
+
+.in {
+    background-color: rgb(188, 143, 251);
+    padding: 25px 65px;
+    margin: -48px  -7px;
+ }
+
+label {
+    color: aliceblue;
+}
+
+.img {
+    width: 100%;
+    text-align: center;
+  }
+  .p {
+    text-align: center;
+  }
